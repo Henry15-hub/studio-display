@@ -1,0 +1,37 @@
+body{
+    background-color:antiquewhite;
+    color: blue;
+    font-size: 25px;
+    font-family: Arial;
+
+}
+
+.mac{
+    position: middle;
+    width: 300px;
+}
+
+.blog{
+    margin: bottom 1px;
+    font-size: 30px;
+    color: purple;
+}
+
+.para{
+    font-size: 15px;
+    margin-top: 2px;
+    border-radius: solid;
+}
+
+.set{
+border-radius: 5px;
+   
+}
+.profile{
+    height: 200px;
+    width: 150px;
+
+    
+    
+    
+}
